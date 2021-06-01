@@ -1,2 +1,2 @@
-# Hypnotic-Client.github.io
+# Hypnotic Client
 The Hypnotic Client website
